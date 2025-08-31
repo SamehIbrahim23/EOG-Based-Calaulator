@@ -1,4 +1,4 @@
-EOG-Based Calculator Navigation
+<hr>EOG-Based Calculator Navigation</hr>
 This project presents a novel approach to human-computer interaction, allowing users to control a graphical calculator interface using only their eye movements and blinks. The system uses Electrooculography (EOG) signals to detect and interpret user commands, translating them into navigation and input actions on the calculator.
 
 Project Overview
